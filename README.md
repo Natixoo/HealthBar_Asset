@@ -14,9 +14,8 @@ Une fois le package importé, faîtes un clic droit la hiérarchie de votre proj
 
 Ensuite glissez le script "HealthBar" desssus.
 
-<!doctype html>
 <html>
   <body>
-    <h1>Test HTML/h1>
+    <h1>Test HTML</h1>
   </body>
 </html>
