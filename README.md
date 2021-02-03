@@ -12,4 +12,4 @@ Une fois le package importé, faîtes un clic droit la hiérarchie de votre proj
 
 ![Capture d’écran 2021-02-02 à 18 48 58](https://user-images.githubusercontent.com/77244944/106645263-66d51700-658c-11eb-824c-2cfac0015ae9.png)
 
-Ensuite glissez le script "HealthBar" desssus.
+Cliquez sur "Add Compenent" et ajoutez le script "HealthBar".
