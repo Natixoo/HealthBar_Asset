@@ -20,4 +20,4 @@ Pour finir ajoutez de la même façon le script "SetHealth" sur un autre éléme
 
 Ouvrez le script "SetHealth" et lisez les commentaires (les lignes en vertes) pour comprendre comment fonctionne cet asset.
 
-Et voilà vous avez maintenant un barre de vie fonctionnel pour votre jeu !
+Et voilà vous avez maintenant un barre de vie fonctionnelle pour votre jeu !
