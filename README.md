@@ -14,4 +14,10 @@ Une fois le package importé, faîtes un clic droit la hiérarchie de votre proj
 
 Cliquez sur "Add Compenent" et ajoutez le script "HealthBar".
 
+<img width="354" alt="Capture d’écran 2021-02-03 à 16 54 24" src="https://user-images.githubusercontent.com/77244944/106773003-e02e4180-6640-11eb-8092-bed7a8af127c.png">
+
 Pour finir ajoutez de la même façon le script "SetHealth" sur un autre élément de votre scène (comme sur la main camera qui est toujours présente quand vous créez un nouveau projet Unity).
+
+Ouvrez le script "SetHealth" et lisez les commentaires (les lignes en vertes) pour comprendre comment fonctionne cet asset.
+
+Et voilà vous avez maintenant un barre de vie fonctionnel pour votre jeu !
